@@ -1,0 +1,44 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet"> 
+.title_gallery{
+	margin-bottom:2em;
+}
+h1{
+	text-align: center;
+	font-size:3em;
+	color:#000039;
+	font-family: 'Pacifico', cursive;
+	 text-shadow: 0px 5px 5px #555;
+}
+.big_container{
+	/*border: 1px solid blue;*/
+	padding: 1em;
+}
+.button_container{
+	/*margin:1em;*/
+	padding:0.5em;
+	/*border: 1px solid blue;*/
+}
+.button_tags{
+	outline: none;
+	border:0;
+	width:10em;
+	text-align: center;
+	color: #fff;
+	background-color: #000039;
+	border-radius:0.8em;
+	padding: 1em;
+	margin-left:1em;
+}
+.grid_container{
+	margin: 1em;
+	justify-content: center;
+	display: grid;
+	grid-gap: 0.5em;
+	grid-template-columns: auto auto auto;
+	/*border:1px solid red;*/
+}
+.img{
+	max-width:100%;
+}
