@@ -65,6 +65,36 @@ export const image_data=[
 		id:12,
 		image_url:"https://images.unsplash.com/photo-1543826173-70651703c5a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=579&q=80",
 		category:"Food"
+	},
+	{	
+		id:13,
+		image_url:"https://images.unsplash.com/photo-1507750661290-a8e4f2935d3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0Mjk1NDg3MQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		category:"Birds"
+	},
+		{	
+		id:14,
+		image_url:"https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+		category:"Mountain"
+	},
+	{	
+		id:15,
+		image_url:"https://images.unsplash.com/photo-1606071548917-78ed9809141f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0Mjk1NDkxMg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		category:"Birds"
+	},
+	{	
+		id:16,
+		image_url:"https://images.unsplash.com/photo-1511963211013-83bba110595d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0Mjk1NTAyNQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		category:"sea"
+	},
+	{	
+		id:17,
+		image_url:"https://images.unsplash.com/photo-1590080876209-c70d0f0bf6a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+		category:"Food"
+	},
+	{	
+		id:19,
+		image_url:"https://images.unsplash.com/photo-1525151498231-bc059cfafa2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+		category:"Food"
 	}
 ];
 

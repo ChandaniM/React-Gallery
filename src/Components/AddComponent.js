@@ -4,23 +4,7 @@ import {image_data} from '../Shared/image';
 function Addcomponent(){
 	 
 	 const [category,addcategory]=useState("all");
-	 // console.log(category);
-	 // const filterItem =(addcategory)=>{
-	 // 	const updatedcategory=image_data.filter((viewcategory)=>{
-	 // 		return viewcategory.category === addcategory;
-	 // 	})
-	 // 	setItems(updatedcategory)
-	 // }
-	 // const addcategory=(valuecategory)=>{
-	 // 	const newcategry=image_data.filter((category)=>{
-		// 	if(category.category === valuecategory){
-		// 		// <img src={category.image_url} alt="">
-
-		// 		console.log(category.image_url)
-		// 	}
-
-	 // 	})
-	 // }
+	
 	return(
 			<div className="react_gallery_container" >
 				<div className="title_gallery">
@@ -34,6 +18,7 @@ function Addcomponent(){
 					<button className="button_tags" onClick={()=>addcategory('sea')}>Sea</button>
 					<button className="button_tags" onClick={()=>addcategory('Food')}>Food</button>
 					<button className="button_tags" onClick={()=>addcategory('all')}>All</button>
+					{/*<button className="button_tags">Add Images</button>*/}
 				</div>
 					<div className="grid_container">
 						{
