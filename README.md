@@ -1,7 +1,7 @@
 # React Gallery App
 ### A React Gallery App in which user can filter images based on tags.
   
-   > **Screenshots for project ** :-	 https://github.com/ChandaniM/React-Gallery/tree/main/screenshots
+   > **Screenshots for project** :-	 https://github.com/ChandaniM/React-Gallery/tree/main/screenshots
    
    **For Executing in Localhost:**
    
