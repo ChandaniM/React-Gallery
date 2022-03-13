@@ -73,7 +73,7 @@ export const image_data=[
 	},
 		{	
 		id:14,
-		image_url:"https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+		image_url:"https://images.unsplash.com/photo-1646125100727-1b627735ac3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
 		category:"Mountain"
 	},
 	{	
